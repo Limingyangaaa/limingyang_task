@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="userinfo">
+    <button bindtap="changeName">click me !</button>
+    <block>{{name}}</block>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">de</text>
+  </view>
+</view>
